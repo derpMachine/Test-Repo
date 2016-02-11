@@ -63,7 +63,7 @@ void pwmcounter (void) interrupt 1
 
 void main (void)
 {
-	
+	/**/
 	//pwm1=50; //50% duty cycle wave at 100Hz
 /*	while(1){
 	printf( "\nPlease check P1.0 with the oscilloscope.\n" );
